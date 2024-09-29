@@ -32,7 +32,7 @@ Ensure you have the following installed before starting the project:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/NikhTheTech/Create-a-Custom-Subnet-main.git
+   git clone https://github.com/jasrotia15/Create-a-Custom-Subnet.git
    ```
 2. **Open the repository in VS Code** (from Ubuntu terminal):
    ```bash
